@@ -1,0 +1,24 @@
+1.	JioGarden Website (Internet)
+a.	Scope: Make a live public website for the giving information about the event culture of the Jio-Garden Place. Showcase the media and news to the public for eventing on Jio-Garden. Also get the inquiry for booking of Jio-Garden for big events like stardust, zeecine awards etc. Also fetching the social media related to jiogarden from the facebook, twitter
+b.	Technology: Liferay 6.2, Oracle
+c.	Work : Project Planning, Theme Design, Development, Bug Solving
+d.	Current Status: Under review of UAT and Production Setup
+2.	Genesis Management Trainee Program (Intranet and Internet)
+a.	Scope: Make a live public and intranet of this portal to get information about the management trainee programs in reliance. Also reliance user can posting the blogs, articles, project repositories, announcements of next events, testimonials, aluminise for the public viewers, which can attract to the reliance management trainee programs.
+b.	Technology: Liferay 6.2, Oracle
+c.	Work: Project Planning, Theme Design and Development, Bug Solving
+d.	Current Status: Make a live on intranet with Phase – 1, started developing on Phase – 2.
+3.	Voice of Jio (Intranet)
+a.	Scope: Getting the different languages of voice from the reliance users, who can share their voice, based on the selective person can analyse the voice and give the role for making the audio channel for videos.
+b.	Technology: Liferay 6.2, Oracle
+c.	Work: Project Planning, Theme Design and Development, Bug Solving
+d.	Current Status: Completed
+4.	Social Connector
+a.	Scope: This project help out for fetching the post comments, reviews, videos channels from different types of social media like facebook, twitter, linkedin, youtube. We fetch the details on real time and storing on our environment, also grouping different social media with single project. Through this project we can expose the API for reliance projects, so based on this API they can fetch project related media from this API application. 
+b.	Technology : Spring, Hibernate, Oracle
+c.	Work: Project Planning, Development
+d.	Current Status: Facebook and Twitter is completed, linked in and yourtube working on
+5.	IT – Enterprise Integration Management
+a.	Scope: Generating the machine related reports of the reliance servers.
+b.	Technology : Spring, Hibernate, Oracle
+c.	Work: Bug Solving and Enhancement
